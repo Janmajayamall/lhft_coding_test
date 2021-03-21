@@ -1,0 +1,30 @@
+{
+	"symbols": [
+		"AAAA",
+		"B",
+		"BxB",
+		"B2B",
+		"3AAA",
+		"BBB4B",
+		"bBBB",
+		"BjBB",
+		"xAAcA",
+		"BBvBB",
+		"BvvvvBBB",
+		"B1213BBB",
+		"AA21AA",
+		"B212B12wB",
+		"B121BBB",
+		"BB12BB",
+		"A12AAA",
+		"BBBgB",
+		"BB3B4B",
+		"1BBBB",
+		"AAAcA",
+		"B1212131BBB",
+		"kkBBBB",
+		"BBiuytreBB"
+	],
+	"update_frequency_milliseconds": 100,
+	"elements_per_update": 50
+}
